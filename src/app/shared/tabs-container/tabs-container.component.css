@@ -1,0 +1,10 @@
+
+  .activeTagStyle {
+    @apply hover:text-white;
+    @apply text-white; 
+    @apply bg-indigo-400;
+ }
+ 
+ .inactiveTagStyle {
+    @apply hover:text-indigo-400;
+ }
